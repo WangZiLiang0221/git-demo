@@ -13,5 +13,6 @@ public class App
         System.out.println("傻逼");
         System.out.println("master test");
         System.out.println("hot-fix test");
+        System.out.println("pull test");
     }
 }
